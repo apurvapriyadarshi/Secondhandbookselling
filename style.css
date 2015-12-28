@@ -1,0 +1,30 @@
+.navbar-default
+{
+    background-image: url(img/books_grass_stack_mood_54495_1920x1080.jpg);
+    height: 500px;
+    width: 100%;
+    background-size:cover;
+    font-family:fantasy;
+    font-size: 18px;
+    font-style:italic;
+}
+.footer
+{
+    margin-top: 40px;
+    padding-top: 20px;
+    margin-bottom: 0px;
+    background-color: black;
+    color: white;
+}
+.container-fluid {
+ background-color:whitesmoke;
+    color:darkslategray;
+    
+}
+.form-control {
+    width: 0px;
+}
+.form-horizontal {
+    margin-left: 0px;
+}
+
